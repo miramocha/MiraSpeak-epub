@@ -1,0 +1,9 @@
+id = "epub"
+name = "EPUB"
+version = "0.1.0"
+api = 1
+entry = "main:EpubModule"
+description = "Open an EPUB and read it aloud, following the sentence."
+author = "MiraSpeak"
+permissions = ["speak"]
+post_to_chat = false
